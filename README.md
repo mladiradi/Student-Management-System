@@ -1,5 +1,4 @@
 
-Python Project 23.05.2024
 # Student Management System 📝
 ![student-management-system](https://github.com/zahariev-webbersof/python-fundamentals-05-2024/assets/68993494/746ccfd8-f414-4714-96f9-e9d704cce587)
 
